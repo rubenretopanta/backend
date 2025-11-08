@@ -1,0 +1,141 @@
+[{
+  "_id": {
+    "$oid": "68ac84f9f60f46d9d1e0a483"
+  },
+  "nombre": "Jemsun Alexis ",
+  "apellido": "Tamayo",
+  "nro_documento": "42694659",
+  "edad": 40,
+  "tipo_documento": {
+    "id_tipodoc": 1,
+    "nombre": "dni"
+  },
+  "usuario": {
+    "email": "alexis5999@gmail.com",
+    "password": "12345",
+    "rol": "admin"
+  },
+  "fecha_registro": {
+    "$date": "2025-08-25T15:44:57.982Z"
+  },
+  "version": 0
+},
+{
+  "_id": {
+    "$oid": "68ac87c0f60f46d9d1e0a48c"
+  },
+  "nombre": "nacy",
+  "apellido": "reto",
+  "nro_documento": "12345678",
+  "edad": 69,
+  "tipo_documento": {
+    "id_tipodoc": 1,
+    "nombre": "dni"
+  },
+  "usuario": {
+    "email": "jose@gmail.com",
+    "password": "123654",
+    "rol": "admin"
+  },
+  "fecha_registro": {
+    "$date": "2025-08-25T15:56:48.516Z"
+  },
+  "version": 0
+},
+{
+  "_id": {
+    "$oid": "68ac8820f60f46d9d1e0a490"
+  },
+  "nombre": "MARTHA",
+  "apellido": "SALAS",
+  "nro_documento": "78787878",
+  "edad": 20,
+  "tipo_documento": {
+    "id_tipodoc": 1,
+    "nombre": "dni"
+  },
+  "usuario": {
+    "email": "martha@gmail.com",
+    "password": "12345",
+    "rol": "admin"
+  },
+  "fecha_registro": {
+    "$date": "2025-08-25T15:58:24.959Z"
+  },
+  "version": 0
+},
+{
+  "_id": {
+    "$oid": "68ac884df60f46d9d1e0a492"
+  },
+  "nombre": "PAOLO",
+  "apellido": "GUERREO",
+  "nro_documento": "48765412",
+  "edad": 42,
+  "tipo_documento": {
+    "id_tipodoc": 1,
+    "nombre": "dni"
+  },
+  "usuario": {
+    "email": "pguerrero@gmail.com",
+    "password": "12345",
+    "rol": "admin"
+  },
+  "fecha_registro": {
+    "$date": "2025-08-25T15:59:09.183Z"
+  },
+  "version": 0
+},
+{
+  "_id": {
+    "$oid": "68ac886bf60f46d9d1e0a494"
+  },
+  "nombre": "JEFERSON",
+  "apellido": "FARFAN",
+  "nro_documento": "11111111",
+  "edad": 40,
+  "tipo_documento": {
+    "id_tipodoc": 1,
+    "nombre": "dni"
+  },
+  "usuario": {
+    "email": "jfarfan@gmail.com",
+    "password": "12345",
+    "rol": "admin"
+  },
+  "fecha_registro": {
+    "$date": "2025-08-25T15:59:39.577Z"
+  },
+  "version": 0
+},
+{
+  "_id": {
+    "$oid": "68acfe3d7b071e7da586820d"
+  },
+  "nombre": "CR7",
+  "apellido": "CR7",
+  "nro_documento": "99999999",
+  "tipo_documento": {
+    "id_tipodoc": 1,
+    "nombre": "dni"
+  },
+  "usuario": {
+    "email": "cr7@gmail.com",
+    "password": "1234",
+    "rol": "admin"
+  }
+},
+{
+  "_id": {
+    "$oid": "68b5cf77487bbcedf1b84f6f"
+  },
+  "nombre": "luana",
+  "apellido": "panta",
+  "nro_documento": "386018",
+  "edad": 18,
+  "usuario": {
+    "email": "luana@gmail.com",
+    "password": "123654",
+    "rol": "contador"
+  }
+}]

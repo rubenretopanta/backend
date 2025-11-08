@@ -1,0 +1,143 @@
+[{
+  "_id": {
+    "$oid": "68b58b912642c6a0a1b9f345"
+  },
+  "email": "rene@example.com",
+  "mensaje": "pedido 902",
+  "monto_total": 180,
+  "lectura": true,
+  "fecha_registro": {
+    "$date": "2025-09-01T12:03:29.395Z"
+  },
+  "version": 0
+},
+{
+  "_id": {
+    "$oid": "68b58c982642c6a0a1b9f348"
+  },
+  "email": "juliarobert@gmail.com",
+  "mensaje": "pedido 603",
+  "monto_total": 690,
+  "lectura": true,
+  "fecha_registro": {
+    "$date": "2025-09-01T12:07:52.742Z"
+  },
+  "version": 0
+},
+{
+  "_id": {
+    "$oid": "68b58d122642c6a0a1b9f34a"
+  },
+  "email": "kiara@gmail.com",
+  "mensaje": "pedido 63",
+  "monto_total": 690,
+  "lectura": true,
+  "fecha_registro": {
+    "$date": "2025-09-01T12:09:54.039Z"
+  },
+  "version": 0
+},
+{
+  "_id": {
+    "$oid": "68b5b9165fb45ab7fe4e2d66"
+  },
+  "email": "anyela@gmail.com",
+  "mensaje": "pedido 69",
+  "monto_total": 963,
+  "lectura": true,
+  "fecha_registro": {
+    "$date": "2025-09-01T15:17:42.415Z"
+  },
+  "version": 0
+},
+{
+  "_id": {
+    "$oid": "68b5cac59de92b66abf45d21"
+  },
+  "email": "cinthia@gmail.com",
+  "mensaje": "pedido 21",
+  "monto_total": 1005,
+  "lectura": true,
+  "fecha_registro": {
+    "$date": "2025-09-01T16:33:09.308Z"
+  },
+  "version": 0
+},
+{
+  "_id": {
+    "$oid": "68b5ce4f28c426fd91423c79"
+  },
+  "email": "casandra@gmail.com",
+  "mensaje": "pedido 81",
+  "monto_total": 1011,
+  "lectura": true,
+  "fecha_registro": {
+    "$date": "2025-09-01T16:48:15.338Z"
+  },
+  "version": 0
+},
+{
+  "_id": {
+    "$oid": "68b5f263a8e7daa6a2049359"
+  },
+  "email": "junior@gmail.com",
+  "mensaje": "pedido 21",
+  "monto_total": 2001,
+  "lectura": true,
+  "fecha_registro": {
+    "$date": "2025-09-01T19:22:11.082Z"
+  },
+  "version": 0
+},
+{
+  "_id": {
+    "$oid": "68b5f525a610b28f927d2614"
+  },
+  "email": "ramona@gmail.com",
+  "mensaje": "pedido 121",
+  "monto_total": 63,
+  "lectura": false,
+  "fecha_registro": {
+    "$date": "2025-09-01T19:33:57.723Z"
+  },
+  "version": 0
+},
+{
+  "_id": {
+    "$oid": "68b5fd681797f5a86c73ea86"
+  },
+  "email": "jetrudes@gmail.com",
+  "mensaje": "pedido 0015",
+  "monto_total": 65,
+  "lectura": true,
+  "fecha_registro": {
+    "$date": "2025-09-01T20:09:12.766Z"
+  },
+  "version": 0
+},
+{
+  "_id": {
+    "$oid": "68b5fe41ec8c6d02e748e921"
+  },
+  "email": "zenaida@gmail.com",
+  "mensaje": "pedido 0016",
+  "monto_total": 650,
+  "lectura": true,
+  "fecha_registro": {
+    "$date": "2025-09-01T20:12:49.617Z"
+  },
+  "version": 0
+},
+{
+  "_id": {
+    "$oid": "68b60cf208fbca5960b20051"
+  },
+  "email": "Renato@gmail.com",
+  "mensaje": "pedido 514",
+  "monto_total": 630,
+  "lectura": false,
+  "fecha_registro": {
+    "$date": "2025-09-01T21:15:30.583Z"
+  },
+  "version": 0
+}]
