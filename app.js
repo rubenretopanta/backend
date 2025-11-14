@@ -19,19 +19,18 @@ app.use(
 );
 app.use(_cors);
 
-// ✅ Ruta raíz para indicar que el servidor está activo
+
 app.get("/", (req, res) => {
-res.send("Servidor funcionando con GitHub Actions v7");
+res.send("Servidor funcionando con GitHub Actions v8");
 });
 
-// ✅ Rutas API
 app.use("/api/v1", api);
 
-// ✅ Servidor
+
 const server = app.listen(PUERTO, () => {
-  console.log("✅ Servidor escuchando en el puerto " + PUERTO);
+  console.log("Servidor escuchando en el puerto " + PUERTO);
 });
 
-// ✅ Socket
+
 configSocket(server);
 
