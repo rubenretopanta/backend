@@ -21,7 +21,7 @@ app.use(_cors);
 
 
 app.get("/", (req, res) => {
-res.send("Servidor funcionando con GitHub Actions v9");
+res.send("Servidor funcionando con GitHub Actions v10");
 });
 
 app.use("/api/v1", api);
