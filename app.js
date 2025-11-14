@@ -21,7 +21,7 @@ app.use(_cors);
 
 // ✅ Ruta raíz para indicar que el servidor está activo
 app.get("/", (req, res) => {
-res.send("Servidor funcionando con GitHub Actions v2🚀");
+res.send("Servidor funcionando con GitHub Actions v3🚀");
 });
 
 // ✅ Rutas API
