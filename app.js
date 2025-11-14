@@ -21,7 +21,7 @@ app.use(_cors);
 
 // ✅ Ruta raíz para indicar que el servidor está activo
 app.get("/", (req, res) => {
-  res.send("✅ Servidor funcionando correctamente — API v1 activa");
+  res.send("Servidor funcionando correctamente git action");
 });
 
 // ✅ Rutas API
