@@ -41,5 +41,5 @@ jobs:
           # Recargar la aplicación con PM2
           # 'restart app' intentará reiniciar una app llamada 'app'.
           # Si no existe, 'start' la creará. Esto hace el script robusto.
-          pm2 restart app/server.js || pm2 start app/server.js --name "server"
+          pm2 restart app.js || pm2 start app.js --name "backend"
         EOF
